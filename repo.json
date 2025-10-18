@@ -1,8 +1,8 @@
 {
-    "name": "Arabico",
-    "description": "Updating the Cloudstream Arabic Provider. Feel free to join the Cloudstream Discord server for the latest information.",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://github.com/aymanbest/Arabico/raw/main/plugins.json"
-    ]
-  }
+  "name": "Arabico",
+  "description": "CloudStream Arabic provider repository (MyCimaProvider for cima.wecima.show).",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/redtwo1/Arabico/main/plugins.json"
+  ]
+}
